@@ -1,16 +1,45 @@
-### Hi there 👋
+Hey Hello! 👋 
 
-<!--
-**maulinasavitri/maulinasavitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vivek Mohan Lohar's Portfolio
 
-Here are some ideas to get you started:
+Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, experience, education, and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This portfolio website is designed to provide a comprehensive overview of my background, education, professional experience, and the projects I have worked on. It serves as a digital representation of my skills and achievements.
+
+## Features
+
+- **About:** Learn more about me and my background.
+- **Experience:** Explore my professional journey and work experience.
+- **Education:** Details about my educational background.
+- **Projects:** View information about the projects I have worked on.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code
+- ChatGPT
+- SPCK Code Editor
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/vivekmohanlohar/viveklohar.git
