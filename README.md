@@ -1,6 +1,6 @@
 Hey Hello! 👋 
 
-# Vivek Mohan Lohar's Portfolio
+# Maulina Savitri's Portfolio
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, experience, education, and projects.
 
